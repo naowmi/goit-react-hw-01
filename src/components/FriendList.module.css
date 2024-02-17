@@ -1,0 +1,13 @@
+.box {
+  display: flex;
+  flex-direction: row;
+  gap: 48px;
+  flex-wrap: wrap;
+  padding: 0;
+}
+.card {
+  width: 128px;
+  border: 2px solid #000;
+  border-radius: 8px;
+  background-color: #ebebeb;
+}

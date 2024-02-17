@@ -1,0 +1,22 @@
+.status {
+  font-size: 20px;
+  font-weight: 400;
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+.statusOnline {
+  color: #629b4d;
+}
+.statusOffline {
+  color: #cd2e0b;
+}
+.avatar {
+  margin-top: 16px;
+}
+.name {
+  font-size: 24px;
+  font-weight: 400;
+  color: #000;
+  margin-top: 12px;
+  margin-bottom: 12px;
+}

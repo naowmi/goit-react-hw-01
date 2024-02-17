@@ -1,0 +1,12 @@
+.name {
+  font-size: 20px;
+  font-weight: 400;
+  border: 1px solid #000;
+  color: #000;
+}
+.whiteRow {
+  background-color: #fff;
+}
+.grayRow {
+  background-color: #b9b9b9;
+}
